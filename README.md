@@ -380,7 +380,8 @@ int main(int argc, char **argv)
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
+![SCREENSHOTT](https://github.com/user-attachments/assets/471130ce-0dc4-409e-9d8e-54e32f5328e9)
+
 
 ## RESULT:
 Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that gpu Unrolling16 has executed with less elapsed time than gpu Unrolling8 with blocks 2048,512.
